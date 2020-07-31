@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=huobazi)
 
