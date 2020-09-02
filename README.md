@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Flutter packages
 
--[indicator_button](https://github.com/huobazi/indicator_button)
+- [indicator_button](https://github.com/huobazi/indicator_button)
 
 ### Examples And  Tutorials
 
