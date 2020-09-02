@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [carrierwave-qiniu](https://github.com/huobazi/carrierwave-qiniu)
 - [qiniu_direct_uploader](https://github.com/huobazi/qiniu_direct_uploader)
 
-### .Net Core App
+### .NET Core App
 
 - [dackup](https://github.com/huobazi/dackup)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - [indicator_button](https://github.com/huobazi/indicator_button)
 
-### Examples And  Tutorials
+### Examples/Tutorials
 
 - [Vue.js example with rails-api and JWT](https://github.com/huobazi/vuejs-with-rails-api-and-jwt-example)
 - [Ajax upload files to mongodb](https://github.com/huobazi/ajax-upload-with-carrierwave-mongoid)
