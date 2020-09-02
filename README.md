@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### RubyGems
 
 - [carrierwave-qiniu](https://github.com/huobazi/carrierwave-qiniu)
-- [qiniu_direct_uploader-qiniu](https://github.com/huobazi/qiniu_direct_uploader)
+- [qiniu_direct_uploader](https://github.com/huobazi/qiniu_direct_uploader)
 
 ### .Net Core App
 
