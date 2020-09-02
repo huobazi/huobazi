@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ### Examples And  Tutorials
 
 - [Vue.js example with rails-api and JWT](https://github.com/huobazi/vuejs-with-rails-api-and-jwt-example)
-- [使用 AjaxUpload 和 Carrierwave 在 Rails && Mongoid 中批量上传图片](https://github.com/huobazi/ajax-upload-with-carrierwave-mongoid)
+- [Ajax upload files to mongodb](https://github.com/huobazi/ajax-upload-with-carrierwave-mongoid)
