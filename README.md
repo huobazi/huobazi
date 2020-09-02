@@ -1,5 +1,3 @@
-### Hello 👋
-
 ![](https://github-readme-stats.vercel.app/api?username=huobazi)
 
 <!--
@@ -16,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### RubyGems
+
+- [carrierwave-qiniu](https://github.com/huobazi/carrierwave-qiniu)
+- [qiniu_direct_uploader-qiniu](https://github.com/huobazi/qiniu_direct_uploader)
+
+### .Net Core App
+
+- [dackup](https://github.com/huobazi/dackup)
+
+### Golang App
+
+- comming soon...
+
+### Flutter packages
+
+-[](https://github.com/huobazi/indicator_button)
+
+### Examples And  Tutorials
+
+- [Vue.js example with rails-api and JWT](https://github.com/huobazi/vuejs-with-rails-api-and-jwt-example)
+- [使用 AjaxUpload 和 Carrierwave 在 Rails && Mongoid 中批量上传图片](https://github.com/huobazi/ajax-upload-with-carrierwave-mongoid)
