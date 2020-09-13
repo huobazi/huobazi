@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 
 - [Vue.js example with rails-api and JWT](https://github.com/huobazi/vuejs-with-rails-api-and-jwt-example)
 - [Ajax upload files with carrierwave and mongoid](https://github.com/huobazi/ajax-upload-with-carrierwave-mongoid)
+- [Website deploy with docker](https://github.com/huobazi/website-deploy-with-docker)
