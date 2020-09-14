@@ -1,19 +1,18 @@
-![](https://github-readme-stats.vercel.app/api?username=huobazi)
 
-<!--
-**huobazi/huobazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p  align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=huobazi" alt="visitor count"/></br>  -->
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=huobazi.huobazi" alt="visitor count"/></br> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/?username=huobazi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br> -->
+  <img src="https://raw.githubusercontent.com/huobazi/huobazi/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/huobazi/huobazi/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/huobazi/huobazi/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+---
+
+<p  align="center">
+</p>
 
 ### RubyGems
 
